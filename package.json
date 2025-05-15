@@ -1,0 +1,10 @@
+{
+  "name": "pi-extensions",
+  "version": "0.1.0",
+  "description": "A set of pi-extensions, including pi-continuous-learning that continually improves you pi coding agent experience",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
