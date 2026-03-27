@@ -1,6 +1,6 @@
 {
   "name": "pi-extensions",
-  "version": "0.1.27",
+  "version": "0.1.28",
   "description": "A set of pi-extensions, including pi-continuous-learning that continually improves you pi coding agent experience",
   "main": "src/index.ts",
   "scripts": {
